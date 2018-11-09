@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Encriptacion</string>
+    <string name="CampoObligatorio">Campo Obligatorio</string>
+    <string name="CaracterObligatorio">CaracterObligatorio</string>
+</resources>
